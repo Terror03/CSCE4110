@@ -1,4 +1,4 @@
-CSCE-4110 hw2
+**CSCE-4110 hw2**
 
 Part 1: Comparing Sorting Algorithms.
 
